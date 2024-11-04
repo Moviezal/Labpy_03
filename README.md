@@ -21,10 +21,6 @@ Program Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
 6. print("-----FINISH-----") print Selesai di luar looping.
 7. Run program latihan1.
 
-### Flowchart
-  
-![](<latihan1.png>)
-
 ### Screenshot
 ![](<code11.png>)
 
@@ -67,15 +63,8 @@ Program Sederhana Pengulangan Dengan Menghitung Laba Pengusaha
 9. print('TOTAL LABA YANG DI DAPAT ADALAH :',sum) print total laba.
 10. Run Program2.
 
-- Flowchart
-![](<flowchrt2.jpg>)
-
-
-
 ### Screenshot
 ![](<coke-2.png>)
-
-
 
 1. Ketikan program
 => x=100000000 modal 100.000.000, variable x.
@@ -121,11 +110,6 @@ Jika tidak:
 Tampilkan pesan "Saldo tidak mencukupi."
 Jika pilihan adalah 2 (Keluar):
 Akhiri program dengan menampilkan pesan "Terima kasih telah menggunakan ATM!"
-
-### Flowchart
-![](<latihanbank.png>)
-
-
 
 ### Screenshot
 ![](<kodeatm.png>)
