@@ -1,4 +1,13 @@
 ## labpy03
+
+Nama : Muhammad Hafizh Alfauzi
+
+Kelas : TI.24.A.5
+
+NIM : 312410501
+
+Mata Kuliah : Bahasa Pemograman
+
 ## LATIHAN1
 
 Program Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
